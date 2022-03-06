@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/westwordle/static/css/main.d589f398.css",
+    "main.css": "/westwordle/static/css/main.23067152.css",
     "main.js": "/westwordle/static/js/main.b012e7b7.js",
     "static/media/futura medium condensed bt.ttf": "/westwordle/static/media/futura medium condensed bt.2423d8808228a8468e9c.ttf",
     "index.html": "/westwordle/index.html",
-    "main.d589f398.css.map": "/westwordle/static/css/main.d589f398.css.map",
+    "main.23067152.css.map": "/westwordle/static/css/main.23067152.css.map",
     "main.b012e7b7.js.map": "/westwordle/static/js/main.b012e7b7.js.map"
   },
   "entrypoints": [
-    "static/css/main.d589f398.css",
+    "static/css/main.23067152.css",
     "static/js/main.b012e7b7.js"
   ]
 }
