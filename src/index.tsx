@@ -13,7 +13,7 @@ function isDST(d: Date) {
 
 function getWordOfDay() {
   // Game Epoch
-  const epochMs = new Date(2022, 2, 7).valueOf()
+  const epochMs = new Date(2022, 5, 1).valueOf()
   let now = Date.now()
   const msInDay = 86400000
   if (isDST(new Date(now))) {
